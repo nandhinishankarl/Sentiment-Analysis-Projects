@@ -1,6 +1,8 @@
 # Sentiment-Analysis-Projects
 
-1. Amazon Fine Food Reviews:  This dataset consists of reviews of fine foods from Amazon. It was collected over a period of 10 years and includes 
+1. Amazon Fine Food Reviews:  
+
+This dataset consists of reviews of fine foods from Amazon. It was collected over a period of 10 years and includes 
 reviews up to October 2012. The dataset contains information about a product, the userid, the profile name for the name of the user and 
 some information about the reviews that were posted by them. 
 
